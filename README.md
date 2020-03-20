@@ -1,7 +1,7 @@
 # screen-slaver
 
 <p align="center">
-	<img src="https://github.com/detain/screen-slaver/screenslaver.gif" alt="Screen Slaver" />
+	<img src="screenslaver.gif" alt="Screen Slaver" />
 </p>
 
 Screensaver and Background handling code for various OSs
