@@ -21,7 +21,6 @@ Screensaver and Background handling code for various OSs
 
 * [RandScullard/photo-screen-saver: Windows screen saver that displays a photo slideshow, based on the Electron framework.](https://github.com/RandScullard/photo-screen-saver)
 * [theboyWhoCriedWoolf/3D-JavaScript-Image-Gallery: Three.js 3D Image Gallery](https://github.com/theboyWhoCriedWoolf/3D-JavaScript-Image-Gallery)
-* [raboud/Roku-Optimal: Specialized Roku screensaver for Optimal](https://github.com/raboud/Roku-Optimal)
 * [viteo/Sharpsaver: A WPF Screensaver template](https://github.com/viteo/Sharpsaver)
 * [pgnunes/web-screen-saver: Windows screensaver that iterates through a list of URLs](https://github.com/pgnunes/web-screen-saver)
 * [flatsiedatsie/photo-frame: A screensaver for the Mozilla Webthings Gateway that shows your favourite photos](https://github.com/flatsiedatsie/photo-frame)
